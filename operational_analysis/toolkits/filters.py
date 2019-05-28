@@ -218,5 +218,4 @@ def cluster_mahalanobis_2d(data_col1, data_col2, n_clusters=13, dist_thresh=3.):
 
     return flag
 
-def nathan_filter():
-    print("Nathan ROCKS! Narenda Modi Won Ekection") 
+ 
